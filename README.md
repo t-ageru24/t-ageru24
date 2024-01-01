@@ -6,7 +6,7 @@
 <p>💬 Ask me about Mobile App development</p>
 <p>📫 Reach me: tadesseageru13@gmail.com</p>
 <p>⚡ Fun Fact: I love programming memes</p>
-- 🔭 I’m currently working as [System Administrator] part time at (https://aambc.edu.et/)
+<p>🔭 I’m currently working as System Administrator part time at https://aambc.edu.et/</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
