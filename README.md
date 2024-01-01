@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadesse Ageru</h1>
-<h3 align="center">Full-stack and Mobile app developer from Ethiopia</h3>
+<h3 align="center">Full-stack and Mobile app developer</h3>
 
 ## 💫 Little Bit More About Me
 <p>👯 I want to collaborate on Mobile App and MERN Stack development</p>
