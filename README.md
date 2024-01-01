@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/t_ageru13" target="blank"><img src="https://img.shields.io/twitter/follow/t_ageru13?logo=twitter&style=for-the-badge" alt="t_ageru13" /></a> </p>
 
-- 🔭 I’m currently working as [System Administrator at](https://aambc.edu.et/)
+- 🔭 I’m currently working as [System Administrator](at https://aambc.edu.et/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
