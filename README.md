@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadesse Ageru</h1>
 <h3 align="center">A passionate Full-stack and Mobile app developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-ageru24&label=Profile%20views&color=0e75b6&style=flat" alt="t-ageru24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-ageru24" alt="t-ageru24" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/t_ageru13" target="blank"><img src="https://img.shields.io/twitter/follow/t_ageru13?logo=twitter&style=for-the-badge" alt="t_ageru13" /></a> </p>
-
 - 🔭 I’m currently working as [System Administrator](at https://aambc.edu.et/)
 
 - 👯 I’m looking to collaborate on **Full-Stack Web and Mobile App deve't**
@@ -16,6 +9,13 @@
 - 💬 Ask me about **flutter and MERN Stack development**
 
 - 📫 How to reach me **tadesseageru13@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-ageru24&label=Profile%20views&color=0e75b6&style=flat" alt="t-ageru24" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-ageru24" alt="t-ageru24" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/t_ageru13" target="blank"><img src="https://img.shields.io/twitter/follow/t_ageru13?logo=twitter&style=for-the-badge" alt="t_ageru13" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
