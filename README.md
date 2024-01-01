@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Mobile app development with Flutter**
 
-- 💬 Ask me about **flutter, MERN**
+- 💬 Ask me about **flutter and MERN Stack development**
 
 - 📫 How to reach me **tadesseageru13@gmail.com**
 
