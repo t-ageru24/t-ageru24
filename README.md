@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadesse Ageru</h1>
-<h3 align="center">A passionate Full-stack and Mobile app developer</h3>
+<h3 align="center">Full-stack and Mobile app developer</h3>
 - 🔭 I’m currently working as [System Administrator](at https://aambc.edu.et/)
 
 - 👯 I’m looking to collaborate on **Full-Stack Web and Mobile App deve't**
