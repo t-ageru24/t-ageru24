@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack and Mobile app developer</h3>
 
 ## 💫 Little Bit More About Me
-<p>👯 I want to collaborate on Mobile App and MERN Stack development</p>
+<p>👯 I want to collaborate on Flutter (Mobile App) and MERN Stack development</p>
 <p>💬 Ask me about Mobile App development</p>
 <p>📫 Reach me: tadesseageru13@gmail.com</p>
 <p>⚡ Fun Fact: I love programming memes</p>
