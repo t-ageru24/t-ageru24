@@ -4,7 +4,7 @@
 ## 💫 Little Bit More About Me
 <p>👯 I want to collaborate on Flutter (Mobile App) and MERN Stack development</p>
 <p>💬 Ask me about Mobile App development</p>
-<p>📫 Reach me: tadesseageru13@gmail.com</p>
+<!-- <p>📫 Reach me: tadesseageru13@gmail.com</p> -->
 <p>⚡ Fun Fact: I love programming memes</p>
 <p>🔭 I have been working as System Administrator at https://aambc.edu.et and also as Software Engineer at https://www.sevenfolds.net</p> 
 
