@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadesse Ageru</h1>
 <h3 align="center">Full-stack and Mobile app developer</h3>
 
-## 💫 Little Bit More About Me
+## 💫 A Little Bit About Me
 <p>👯 I want to collaborate on Full-Stack and also Mobile App development</p>
 <p>💬 Ask me about coding algorithm to solve a real world problem</p>
 <!-- <p>📫 Reach me: tadesseageru13@gmail.com</p> -->
