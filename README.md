@@ -6,7 +6,7 @@
 <p>💬 Ask me about Mobile App development</p>
 <!-- <p>📫 Reach me: tadesseageru13@gmail.com</p> -->
 <p>⚡ Fun Fact: I love programming memes</p>
-<p>🔭 I have been working as System Administrator at https://aambc.edu.et and also as Software Engineer at https://www.sevenfolds.net</p> 
+<p>🔭 I have been working as a System Administrator at https://aambc.edu.et and also as a Software Engineer at https://www.sevenfolds.net</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
