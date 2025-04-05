@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadesse Ageru</h1>
-<h3 align="center">Full-Stack & Mobile App Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Data Science | Full-Stack & Mobile App Developer | Problem Solver</h3>
 
 ---
 
