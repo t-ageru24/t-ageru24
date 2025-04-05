@@ -44,7 +44,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ageru24&layout=compact&theme=radical" alt="Top Languages" />
   <br>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=t-ageru24&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-ageru24&theme=radical" alt="GitHub Streak" />
 </p>
